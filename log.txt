@@ -1,0 +1,90 @@
+﻿commit 88f91ef625ddb184038683fa0dc248f03ff31e2b
+Author: rramosa <ruramos72@gmail.com>
+Date:   Sat Jul 14 16:08:42 2018 +0200
+
+    El último commit del examen, espero
+
+commit ba23e862ace7eed859b7184498b64d4748a2ef71
+Author: rramosa <ruramos72@gmail.com>
+Date:   Sat Jul 14 16:04:45 2018 +0200
+
+    vamos a ver
+
+commit 52653b29764a3654bdc6a0fdb812083ba876b83e
+Merge: ff47dcc 3aa667d
+Author: rramosa <ruramos72@gmail.com>
+Date:   Sat Jul 14 15:48:52 2018 +0200
+
+    Merge branch 'master' of github.com:rramosa/examenRRA
+
+commit ff47dccc6682b68426b54f865e607218daf35b17
+Author: rramosa <ruramos72@gmail.com>
+Date:   Sat Jul 14 15:48:33 2018 +0200
+
+    Vamos a ver ahora
+
+commit 3aa667d83a216dc3819acda904792c389b4d1c10
+Author: rramosa <ruramos72@gmail.com>
+Date:   Sat Jul 14 15:47:39 2018 +0200
+
+    Delete index.txt
+
+commit 9bb5156f5fcc2b28ab3d597e3b51cd21eeae26ce
+Author: rramosa <ruramos72@gmail.com>
+Date:   Sat Jul 14 15:41:22 2018 +0200
+
+    Subiendo docs
+
+commit 2634d1b7eda1b83a4944465d0178878cb5ac8fbe
+Author: rramosa <ruramos72@gmail.com>
+Date:   Sat Jul 14 15:37:36 2018 +0200
+
+    Delete docs
+
+commit 05676211417f6050dcdea111caf49c2cb2221a12
+Author: rramosa <ruramos72@gmail.com>
+Date:   Sat Jul 14 15:37:20 2018 +0200
+
+    Create docs
+
+commit 809caac65a9e390e428610f7a1f501792ea0aa8c
+Author: rramosa <ruramos72@gmail.com>
+Date:   Sat Jul 14 15:27:35 2018 +0200
+
+    El primer archivo que subo a la nueva rama
+
+commit 9a570e5541409f678ac7cb92383e18e2504ea804
+Author: rramosa <ruramos72@gmail.com>
+Date:   Sat Jul 14 15:22:23 2018 +0200
+
+    Commit de la primera rama creada
+
+commit 2b4eb2888f6e3637886eee7f84f616b20631b5d7
+Author: rramosa <ruramos72@gmail.com>
+Date:   Sat Jul 14 15:13:10 2018 +0200
+
+    Vamos con el quinto commit
+
+commit 8b88c6d196a7683ad1e7b11ae48d4ed1d5eb66f9
+Author: rramosa <ruramos72@gmail.com>
+Date:   Sat Jul 14 15:08:53 2018 +0200
+
+    Como cuarto commit subo una foto, es un poco vieja, bueno, soy yo más viejo
+
+commit 9ae4ff30ce610464324cac7a25d317795286c225
+Author: rramosa <ruramos72@gmail.com>
+Date:   Sat Jul 14 15:05:07 2018 +0200
+
+    El tercer commit
+
+commit 50e84e9e4e8bddcf5f4430fe12753e89ead3afc6
+Author: rramosa <ruramos72@gmail.com>
+Date:   Sat Jul 14 14:51:04 2018 +0200
+
+    Segundo commit, actualización del primero
+
+commit 8539ae2f8a4094c8a84897bbcc49ebe2b914f104
+Author: rramosa <ruramos72@gmail.com>
+Date:   Sat Jul 14 14:48:16 2018 +0200
+
+    Voy a subir el primer commit
